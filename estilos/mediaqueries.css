@@ -40,6 +40,10 @@
         color: white;
     }
 
+    #reset{
+    padding: 2.5px;
+   }
+
 }
 
 @media screen and (min-width:769px) and (max-width:1024px){
@@ -78,6 +82,10 @@
         font-weight: bold;
         color: white;
     }
+
+    #reset{
+    padding: 3px;
+   }
 }
 
 @media screen and (min-width:1025px) and (max-width:1200px){
@@ -116,6 +124,10 @@
         font-weight: bold;
         color: white;
    }
+
+   #reset{
+    padding: 4px;
+   }
 }
 
 @media screen and (min-width:1201px){
@@ -153,5 +165,9 @@
         font-size: 1.1em;
         font-weight: bold;
         color: white;
+   }
+
+   #reset{
+    padding: 5px;
    }
 }
